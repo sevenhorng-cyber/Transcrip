@@ -1,0 +1,6 @@
+{
+  "name": "Khmer Audio Transcriber",
+  "description": "A powerful audio-to-text converter powered by Gemini AI, with full support for Khmer script and various audio formats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
